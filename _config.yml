@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://izakman.github.io
+title: Izebitz
+paginate: 10
